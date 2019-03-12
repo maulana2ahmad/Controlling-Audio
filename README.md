@@ -1,6 +1,9 @@
 # Controlling-Audio
 Controling Audio
 
+## Priview
+![controling-audio](https://user-images.githubusercontent.com/43386555/54200245-83ca5200-44fd-11e9-987d-a267374fab94.gif)
+
 ## 1. Add MediaPlayer
 ```java
 //global variable
